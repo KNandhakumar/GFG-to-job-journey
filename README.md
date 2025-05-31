@@ -50,7 +50,7 @@ I began this challenge on **July 29, 2024**. Every single day, no matter what �
 
 - 🔗 [LinkedIn](www.linkedin.com/in/nknandhakumar)
 - 💻 [GeeksForGeeks](https://www.geeksforgeeks.org/user/nandha_kumar/)
-- 💡 [GitHub]([https://github.com/your-username](https://github.com/KNandhakumar))
+- 💡 [GitHub](https://github.com/KNandhakumar)
 
 ---
 
